@@ -39,11 +39,11 @@ Places to look for a used bicycle:
 If you are short (5'5 and below), you should call ahead of time to ask about what bikes they have for small people. It's often hard to find bikes if you are shorter. The best place to go if you are small is craigslist.
 
 What to look for:
-
+===
 * the right size
-	* bicycles are measured in centimeters, the length of the top tube. If this distance is too long, the bike will be difficult/impossible to ride.
-	* when you stand over the bicycle, you should have a bit of room between your crotch and the tube. 
-* a smooth ride. it should switch gears without issue and be generally easy for you to operate.
+	* when you stand over the bicycle, you should have a bit of room between your crotch and the tube
+	* use [this link](http://www.ebicycles.com/bicycle-tools/frame-sizer)to determine the size you should be aiming for 
+* a smooth ride. it should switch gears without issue and be generally easy for you to operate
 	* gears are located in one of three places:
 		* on the down tube
 			* less intuitive at first, but you pick it up quickly 

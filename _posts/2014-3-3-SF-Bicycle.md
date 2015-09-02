@@ -42,7 +42,7 @@ What to look for:
 ---
 * the right size
 	* when you stand over the bicycle, you should have a bit of room between your crotch and the tube
-	* use [this link](http://www.ebicycles.com/bicycle-tools/frame-sizer)to determine the size you should be aiming for 
+	* use [this link](http://www.ebicycles.com/bicycle-tools/frame-sizer) to determine the size you should be aiming for 
 * a smooth ride. it should switch gears without issue and be generally easy for you to operate
 	* gears are located in one of three places:
 		* on the down tube

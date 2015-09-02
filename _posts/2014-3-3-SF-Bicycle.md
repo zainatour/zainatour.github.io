@@ -28,13 +28,13 @@ Places to look for a used bicycle:
 
 * [Columbus Cyclery](http://www.gobikeit.com/cyclery/buy-a-bike/used-bikes/) definitely has the largest in-person selection. Go here first, but beware since some of their bikes have parts that don't necessarily go together. A guy named Abel works here every day except Sunday. He's *amazing* - ask for him!
 
-* [Craigslist](http://sfbay.craigslist.org/search/bik) time consuming, but very worth it and lots and lots of bikes. Buy cheap and get it fixed up.
+* [Craigslist](http://sfbay.craigslist.org/search/bik) - time consuming, but very worth it and lots and lots of bikes. Buy cheap and get it fixed up.
 
-* [Refried Cycles](http://www.refriedcycles.com/) wonderful used bikes but not a lot of selection and sort of expensive.
+* [Refried Cycles](http://www.refriedcycles.com/) - wonderful used bikes but not a lot of selection and sort of expensive.
 
-* [Pedal Revolution](http://www.pedalrevolution.org/) less expensive but less selection.
+* [Pedal Revolution](http://www.pedalrevolution.org/) - less expensive but less selection.
 
-* [Lulu's Cyclery](http://www.yelp.com/biz/lulus-cyclery-berkeley) decent selection, but in Berkeley.
+* [Lulu's Cyclery](http://www.yelp.com/biz/lulus-cyclery-berkeley) - decent selection, but in Berkeley.
 
 If you are short (5'5 and below), you should call ahead of time to ask about what bikes they have for small people. It's often hard to find bikes if you are shorter. The best place to go if you are small is craigslist.
 
@@ -55,5 +55,7 @@ What to look for:
 
 
 Finding the right bicycle is mostly about intuition. Does it feel nice when you pedal and switch gears or is it hard to operate? Do you enjoy riding it or do you wish something were different about it? Do you like the way it looks or do you not care? 
+
+The people who work at bike shops are also insanely helpful! Don't be scared to ask for help or recommendations from employees! 
 
 

@@ -16,8 +16,8 @@ Truthfully, I had settled on San Francisco a few months prior. It has the best w
 My first bike was a [Public bike](http://publicbikes.com/p/PUBLIC-V7-2015-Best-City-Bike-Commuter-Cruiser-Bicycle-Reviews). It was $500 and quite tacky and after riding it for five months and finding a job, I suddenly started to dislike the thing. I wasn't excited about riding it and thought it was garish. It was also realllly heavy which I did not need with all the hills everywhere. And so began the hunt for a road bike. It took me ~a month total because there were zero resources anywhere on how to go about buying a road bicycle in the city. So I made one! My experience is mostly with road bikes, but this can be used for other kinds too.
 
 Your goal:
--buy a bicycle that you enjoy riding*
--don't spend a ton of money** 
+* buy a bicycle that you enjoy riding*
+* don't spend a ton of money** 
 
 *This is by far the most important thing. If you don't absolutely love your bike, you're going to find excuses to not use it.
 
@@ -38,18 +38,19 @@ Places to look for a used bicycle:
 If you are short (5'5 and below), you should call ahead of time to ask about what bikes they have for small people. It's often hard to find bikes if you are shorter. The best place to go if you are small is craigslist.
 
 What to look for:
--the right size
-	-bicycles are measured in centimeters, the length of the top tube. If this distance is too long, the bike will be difficult/impossible to ride.
-	-when you stand over the bicycle, you should have a bit of room between your crotch and the tube. 
--a smooth ride. it should switch gears without issue and be generally easy for you to operate.
-	-gears are located in one of three places:
-		-on the down tube
-			-less intuitive at first, but you pick it up quickly 
-		-on the brakes
-		-at the end of the handlebars
-	-some gears are "indexed" and others are "friction"
-		-think of a gas stove. when you turn on the fire, you can move it between high, medium, or low, but it can only be in those three settings. this is what indexed gears are.
-		-when you turn on the fire, you can move it anywhere between high and low with a ton of range in between. this is what friction gears are.
+
+* the right size
+	* bicycles are measured in centimeters, the length of the top tube. If this distance is too long, the bike will be difficult/impossible to ride.
+	* when you stand over the bicycle, you should have a bit of room between your crotch and the tube. 
+* a smooth ride. it should switch gears without issue and be generally easy for you to operate.
+	* gears are located in one of three places:
+		* on the down tube
+			* less intuitive at first, but you pick it up quickly 
+		* on the brakes
+		* at the end of the handlebars
+	* some gears are "indexed" and others are "friction"
+		* think of a gas stove. when you turn on the fire, you can move it between high, medium, or low, but it can only be in those three settings. this is what indexed gears are.
+		* when you turn on the fire, you can move it anywhere between high and low with a ton of range in between. this is what friction gears are.
 
 
 Finding the right bicycle is mostly about intuition. Does it feel nice when you pedal and switch gears or is it hard to operate? Do you enjoy riding it or do you wish something were different about it? Do you like the way it looks or do you not care? 
